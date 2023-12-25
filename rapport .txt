@@ -1,0 +1,1 @@
+Le résultat obtenu de test 2 correspond au résultat attendu.
